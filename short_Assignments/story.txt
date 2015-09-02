@@ -1,0 +1,29 @@
+START|PARTY, IM, PROPIC|How often are you on FB? a) 24/7! b) At least once a day. c) not all that frequently.
+
+PARTY|APP, IM|Your BFF posted party pics! How many do you comment on? a) Umm, prob all of them! b) Only the best ones.
+
+GUY|QUEEN, FRIENDS| You like a guy from a different clique, so you: a) Friend him— who cares?! b) Check out his page secretly.
+
+QUEEN||You’re the FB Queen Bee!
+
+IM|APP, PROPIC |When IM-ing buds, you usually use: a) Facebook chat, of course! b) AIM or a similar program.
+
+PROPIC|TRUTHIS, PARENTS|You change your FB profile picture: a) At least once a week! b) Maybe once a month or so.
+
+APP|GUY, TRUTHIS|T or F: You have a cell and it has the FB app! a) True, it’s so addictive. b) False, it’s not necessary.
+
+WALL|FRIENDS, BDAY|When someone friends you, do you write on their wall right away? a) Yep, you can’t help it! b) Not always, depends who it is.
+
+TRUTHIS|GUY, WALL|Time to ‘fess up! Are you taking part in the “Truth is…” craze? a) Yep, it’s so much fun! b) Nah, I’m not into that.
+
+BDAY|NEWS, WALLFLOWER|Wishing your buds a Happy B-day on Facebook is: a) A must— it makes it official! b) Kinda lame— you do it in person!
+
+PARENTS|WALL, BDAY|Have your parents ever banned you from FB? a) Yeah, if you’re grounded. b) No, you’re not on it too much.
+
+NEWS|BUD, WALLFLOWER|Your BFF sent you a FB message with he-uge news! You: a) Reply to the message. b) Text or call her ASAP.
+
+FRIENDS|QUEEN, BUD|How many FB friends do you have right now? a) Over 100— and growing! B) Less than 100— just real buds.
+
+BUD||You’re a true blue FB bud!
+
+WALLFLOWER||You’re an FB wallflower!
